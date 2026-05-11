@@ -1,4 +1,4 @@
-# AI Course Projects
+# Artificial Intelligence Course Projects
 
 This repository contains four tutorial projects completed for my CPSC 5700 Artificial Intelligence course at Yale University. Each project explores a research paper through a combination of background explanation, practical implementation, and teaching-focused walkthroughs.
 
